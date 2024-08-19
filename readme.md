@@ -1,2 +1,2 @@
 # infovis
-https://fedesaroka.github.io/infovis
+https://jsbin.com/hemozihoya/edit?html,output
